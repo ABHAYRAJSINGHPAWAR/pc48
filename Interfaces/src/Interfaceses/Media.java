@@ -1,0 +1,6 @@
+package Interfaceses;
+
+public interface Media {
+	void start();
+	void stop();
+}
